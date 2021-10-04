@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vmuellerwilmes@gmail.com
+	name = VeronikaMueller-Wilmes
